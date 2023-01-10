@@ -45,7 +45,7 @@ body {
 
 .header-title {
     display: flex;
-    gap: 12px;
+    /* gap: 12px; */
 }
 
 .header-title h1 {
